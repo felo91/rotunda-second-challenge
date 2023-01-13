@@ -4,9 +4,9 @@ The goal of this project is to provide the means for developers, in a given orga
 
 For this task we created two services, a frontend made in React.js and a backend made in Node.js.
 
-Both of them have an .env file to configure global variables, and they also install and compile with the same commands.
-
 With the following commands we can instantiate the services locally or alternatively we can have a much more portable solution by running them in a container with docker-compose
+
+Both of them have an .env file to set global variables
 
 ## Installation
 
