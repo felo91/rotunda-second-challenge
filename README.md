@@ -1,6 +1,6 @@
 ## Description
 
-A project was requested to provide a means for developers in a given organization to quickly determine the order in which they should work on their assigned GitHub issues.
+The goal of this project is to provide the means for developers, in a given organization, to quickly determine the order in which they should work on their assigned GitHub issues.
 
 For this task we created two projects, a frontend made in React.js and a backend made in Node.js.
 
